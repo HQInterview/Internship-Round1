@@ -1,4 +1,4 @@
-# PHP / SQL Internship #1
+# PHP / Node.js Internship #1
 
 This document contains description and requirements for Round #1 of interview for internship developer position. Applicant can chose to use PHP or Node.js.
 
